@@ -1,0 +1,20 @@
+.barcode-wrap {
+    font: 14px monospace;
+    display: flex;
+    color: black;
+    border: 1px dotted rgb(204, 204, 204);
+    text-align: center;
+    justify-content: center;
+    max-width: 180px;
+}
+
+.barcode-wrap-small {
+    font: 10px monospace;
+    margin-top: 2px;
+    display: flex;
+    color: black;
+    border: 1px dotted rgb(204, 204, 204);
+    text-align: center;
+    justify-content: center;
+    max-width: 100px;
+}
